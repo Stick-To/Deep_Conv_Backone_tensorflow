@@ -32,7 +32,7 @@ residial attention network
 3) run test-model.py
 
 # Test
-run model.test_one_batch()
+model.test_one_batch()
 
 # Experimental Environment
 python3.7 tensorflow1.13
